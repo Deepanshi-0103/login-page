@@ -23,7 +23,7 @@ The main goal of this project was to enhance my understanding of HTML structure 
 
 ## Screenshots
 
-![Login Page Screenshot](https://via.placeholder.com/800x400)  
+![Login Page Screenshot](./login_ss.png/800x400)  
 
 
 ## Installation
